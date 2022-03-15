@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aayan Srivastava</h1>
-<h3 align="center">A patient Developer and a calm programmer.</h3>
+<h3 align="center">I am an Information Technology student working with different algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superaayan&label=pv&color=0e75b6&style=flat" alt="superaayan" /> </p>
 
 - 🌱 I’m currently learning **Different Algorithms.**
 
-- 📫 How to reach me **superaayan9@gmail.com**
+- 📫 How to reach me **aayansrivastava13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
