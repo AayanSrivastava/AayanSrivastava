@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayan Srivastava</h1>
 <h3 align="center">I am an Information Technology student working with different algorithms.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=superaayan&label=pv&color=0e75b6&style=flat" alt="superaayan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=superaayan&label=profile views&color=0e75b6&style=flat" alt="superaayan" /> </p>
 
 - 🌱 I’m currently learning **Different Algorithms.**
 
