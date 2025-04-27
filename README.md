@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aayan Srivastava</h1>
-<h3 align="center">I am an IT graduate working with different algorithms.</h3>
+<h3 align="center">I am Python Automation Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superaayan&label=profile views&color=0e75b6&style=flat" alt="superaayan" /> </p>
 
 - 🌱 Working as Automation engineer.
-- 
+  
 - 🌱 I’m currently learning **Different Algorithms.**
 
 - 📫 How to reach me **aayansrivastava13@gmail.com**
