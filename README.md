@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=superaayan&label=profile views&color=0e75b6&style=flat" alt="superaayan" /> </p>
 
+- 🌱 Working as Automation engineer.
+- 
 - 🌱 I’m currently learning **Different Algorithms.**
 
 - 📫 How to reach me **aayansrivastava13@gmail.com**
